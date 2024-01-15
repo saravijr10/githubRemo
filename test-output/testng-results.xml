@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-15T07:30:17Z" name="Suite" finished-at="2024-01-15T07:30:17Z" duration-ms="145">
+    <groups>
+    </groups>
+    <test started-at="2024-01-15T07:30:17Z" name="LoginTest" finished-at="2024-01-15T07:30:17Z" duration-ms="54">
+      <class name="com.bh.iw.testcase.LoginTest">
+        <test-method signature="validLoginTest()[pri:0, instance:com.bh.iw.testcase.LoginTest@181e731e]" started-at="2024-01-15T07:30:17Z" name="validLoginTest" finished-at="2024-01-15T07:30:17Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method signature="validInLoginTest()[pri:1, instance:com.bh.iw.testcase.LoginTest@181e731e]" started-at="2024-01-15T07:30:17Z" name="validInLoginTest" finished-at="2024-01-15T07:30:17Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validInLoginTest -->
+      </class> <!-- com.bh.iw.testcase.LoginTest -->
+    </test> <!-- LoginTest -->
+    <test started-at="2024-01-15T07:30:17Z" name="RegisterTest" finished-at="2024-01-15T07:30:17Z" duration-ms="27">
+      <class name="com.bh.iw.testcase.RegisterTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.bh.iw.testcase.RegisterTest@68702e03]" started-at="2024-01-15T07:30:14Z" name="setUp" finished-at="2024-01-15T07:30:17Z" duration-ms="3128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validRegisterTest()[pri:1, instance:com.bh.iw.testcase.RegisterTest@68702e03]" started-at="2024-01-15T07:30:17Z" name="validRegisterTest" finished-at="2024-01-15T07:30:17Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validRegisterTest -->
+        <test-method signature="invalidRegisterTest()[pri:2, instance:com.bh.iw.testcase.RegisterTest@68702e03]" started-at="2024-01-15T07:30:17Z" name="invalidRegisterTest" finished-at="2024-01-15T07:30:17Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidRegisterTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bh.iw.testcase.RegisterTest@68702e03]" started-at="2024-01-15T07:30:17Z" name="tearDown" finished-at="2024-01-15T07:30:18Z" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bh.iw.testcase.RegisterTest -->
+    </test> <!-- RegisterTest -->
+  </suite> <!-- Suite -->
+</testng-results>
