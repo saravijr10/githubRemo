@@ -19,5 +19,12 @@ public class LoginTest extends TestBase {
 		System.out.println("added new invalid Login");
 	}
 	
+	@Test(priority=2)
+	public void validInLoginTest2() {
+		System.out.println(driver.getTitle());
+		System.out.println("Invalid Login 2");	
+		System.out.println("added new invalid Login 2");
+	}
+	
 
 }
