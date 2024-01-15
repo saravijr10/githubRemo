@@ -17,6 +17,7 @@ public class RegisterTest extends TestBase {
 	public void invalidRegisterTest() {
 		System.out.println(driver.getTitle());
 		System.out.println("Invalid Register");
+		System.out.println("****************************");
 	}
 
 }
